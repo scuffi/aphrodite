@@ -1,7 +1,7 @@
 name: aphrodite
-description: A new Flutter package project.
+description: Flutter Design Framework consisting of elegant and useful UI components
 version: 0.0.1
-homepage:
+homepage: https://github.com/scuffi/aphrodite
 
 environment:
   sdk: '>=2.19.4 <3.0.0'

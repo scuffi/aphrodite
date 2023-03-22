@@ -1,7 +1,9 @@
 library aphrodite;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+// TODO: Add export here
+
+// Export Better Colours
+export 'src/colours/better_colours.dart';
+
+// Export Buttons
+export 'src/buttons/primary/primary_button.dart';

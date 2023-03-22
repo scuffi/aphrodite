@@ -11,8 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Aphrodite provides clean and premade widgets to speedup development times of projects with design in mind. Aphrodite (at this stage) does not add any functionality, rather it provides premade and prestyled widgets to save the headache in future projects.
 
 ## Features
 
